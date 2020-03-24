@@ -30,6 +30,18 @@
         "owner": "HelpDAO"
       },
       {
+        "name": "donation-backend",
+        "owner": "HelpDAO"
+      },
+      {
+        "name": "donation-portal",
+        "owner": "HelpDAO"
+      },
+      {
+        "name": "dao-template",
+        "owner": "HelpDAO"
+      },
+      {
         "name": "help",
         "owner": "HelpDAO"
       }
